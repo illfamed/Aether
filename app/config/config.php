@@ -1,9 +1,9 @@
 <?php
     // DB Params
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASS', '123456');
-    define('DB_NAME', 'aether');
+    define('DB_USER', 'YourDatabaseUserName');
+    define('DB_PASS', 'YourDatabasePassword');
+    define('DB_NAME', 'YourDatabaseName');
 
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
